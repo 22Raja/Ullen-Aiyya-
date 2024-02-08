@@ -1,4 +1,4 @@
-# Ullen-Aiyya-
+# Ullen-Aiyya- Developer - keerthi Raja
 This is a desktop appliction done with python for Attendance. 
 
 Pre-requisites:
